@@ -1,0 +1,29 @@
+.row {
+  background-color: rgb(231, 43, 43);
+}
+.col {
+  border: 1px solid rgb(89, 146, 219);
+}
+h4 {
+  color: white;
+}
+img {
+  width: 260px;
+  height: 265px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 15px;
+  background-color: rgb(231, 43, 43);
+}
